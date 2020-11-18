@@ -7,3 +7,4 @@ This is an example of a repository where we will track our shell histories.
 value = 42.0
 ```
 
+# shell
